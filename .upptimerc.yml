@@ -9,6 +9,8 @@ sites:
     url: https://auth.adityaap.tech
   - name: Owncloud 
     url: https://owncloud.adityaap.tech
+  - name: Gitea 
+    url: https://git.adityaap.tech
   - name: Immich 
     url: https://immich.adityaap.tech
   - name: Jellyfin 
