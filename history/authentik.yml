@@ -1,7 +1,7 @@
 url: https://auth.adityaap.tech
-status: up
-code: 200
-responseTime: 2643
-lastUpdated: 2025-10-21T17:28:23.293Z
+status: down
+code: 502
+responseTime: 837
+lastUpdated: 2025-10-21T17:51:57.687Z
 startTime: 2025-10-21T16:32:11.911Z
 generator: Upptime <https://github.com/upptime/upptime>
