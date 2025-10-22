@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.adityaap.tech.ico",
     "slug": "authentik",
     "status": "down",
-    "uptime": "28.17%",
-    "uptimeDay": "28.17%",
-    "uptimeWeek": "28.17%",
-    "uptimeMonth": "28.17%",
-    "uptimeYear": "28.17%",
-    "time": 1105,
-    "timeDay": 1105,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105,
+    "uptime": "6.25%",
+    "uptimeDay": "6.25%",
+    "uptimeWeek": "6.25%",
+    "uptimeMonth": "6.25%",
+    "uptimeYear": "6.25%",
+    "time": 955,
+    "timeDay": 955,
+    "timeWeek": 955,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-10-21": 82
+      "2025-10-22": 65,
+      "2025-10-21": 416
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.adityaap.tech.ico",
     "slug": "owncloud",
     "status": "down",
-    "uptime": "57.80%",
-    "uptimeDay": "57.80%",
-    "uptimeWeek": "57.80%",
-    "uptimeMonth": "57.80%",
-    "uptimeYear": "57.80%",
-    "time": 613,
-    "timeDay": 613,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "uptime": "12.81%",
+    "uptimeDay": "12.81%",
+    "uptimeWeek": "12.81%",
+    "uptimeMonth": "12.81%",
+    "uptimeYear": "12.81%",
+    "time": 538,
+    "timeDay": 538,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-10-21": 48
+      "2025-10-22": 65,
+      "2025-10-21": 382
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.adityaap.tech.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "82.98%",
-    "uptimeDay": "82.98%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "82.98%",
-    "time": 648,
-    "timeDay": 648,
-    "timeWeek": 648,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "uptime": "10.45%",
+    "uptimeDay": "10.45%",
+    "uptimeWeek": "10.45%",
+    "uptimeMonth": "10.45%",
+    "uptimeYear": "10.45%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-10-21": 10
+      "2025-10-22": 65,
+      "2025-10-21": 344
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.adityaap.tech.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "57.81%",
-    "uptimeDay": "57.81%",
-    "uptimeWeek": "57.81%",
-    "uptimeMonth": "57.81%",
-    "uptimeYear": "57.81%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "uptime": "12.81%",
+    "uptimeDay": "12.81%",
+    "uptimeWeek": "12.81%",
+    "uptimeMonth": "12.81%",
+    "uptimeYear": "12.81%",
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-10-21": 48
+      "2025-10-22": 65,
+      "2025-10-21": 382
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.adityaap.tech.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "57.78%",
-    "uptimeDay": "57.78%",
-    "uptimeWeek": "57.78%",
-    "uptimeMonth": "57.78%",
-    "uptimeYear": "57.78%",
-    "time": 521,
-    "timeDay": 521,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "uptime": "12.80%",
+    "uptimeDay": "12.80%",
+    "uptimeWeek": "12.80%",
+    "uptimeMonth": "12.80%",
+    "uptimeYear": "12.80%",
+    "time": 458,
+    "timeDay": 458,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-10-21": 48
+      "2025-10-22": 65,
+      "2025-10-21": 382
     }
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio-console.adityaap.tech.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "57.74%",
-    "uptimeDay": "57.74%",
-    "uptimeWeek": "57.74%",
-    "uptimeMonth": "57.74%",
-    "uptimeYear": "57.74%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "uptime": "12.79%",
+    "uptimeDay": "12.79%",
+    "uptimeWeek": "12.79%",
+    "uptimeMonth": "12.79%",
+    "uptimeYear": "12.79%",
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-10-21": 48
+      "2025-10-22": 65,
+      "2025-10-21": 382
     }
   }
 ]
